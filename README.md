@@ -36,7 +36,6 @@ This is being Tested right now, official work will start at a later date.
 </details>
 
 <details>
-
 <summary>Mermaid diagram</summary>
 
 ```mermaid
@@ -50,8 +49,35 @@ graph TD;
     B-->D;
     C-->D;
 ```
-    
-  
+</details>
+
+<details>
+  ```geojson
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 1,
+        "properties": {
+            "ID": 0
+            }
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-90,35]
+                [-90,30]
+                [-85,30]
+                [-85,35]
+                [-90,35]
+              ]
+            ]
+          }
+      }
+    ]
+  }
+  ```
 </details>
 
 ---
