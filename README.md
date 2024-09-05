@@ -40,6 +40,10 @@ This is being Tested right now, official work will start at a later date.
 <summary>Mermaid diagram</summary>
 
 ```mermaid
+info
+```
+
+```mermaid
 graph TD;
     A-->B;
     A-->C;
