@@ -35,6 +35,19 @@ This is being Tested right now, official work will start at a later date.
   
 </details>
 
+<details>
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+    
+  
+</details>
+
 ---
 > Nothing in the world is difficult, only the mind makes it so.
 - Sun Wukong
