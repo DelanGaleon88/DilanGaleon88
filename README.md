@@ -7,6 +7,10 @@
 <img alt="BabyButNotBaby W. Gun" scr="https://cdn.anime-planet.com/manga/primary/reborn-1-285x428.jpg?t=1723746730">
 </picture>
 
+<details>
+
+<summary> My Top Hobbies </summary>
+
 | Rank |    Hobbies    |
 |-----:|---------------|
 |     1|     Gaming    |
@@ -16,3 +20,5 @@
 |     6|     Drawing   |
 |     7|   Sleeping    |
 |     8|    UE5 ENV.   |
+  
+</details>
