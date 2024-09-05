@@ -22,3 +22,7 @@
 |     8|    UE5 ENV.   |
   
 </details>
+
+---
+> Nothing in the world is difficult, only the mind makes it so.
+- Sun Wukong
