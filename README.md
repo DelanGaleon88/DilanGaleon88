@@ -7,6 +7,10 @@
 <img alt="BabyButNotBaby W. Gun" scr="https://cdn.anime-planet.com/manga/primary/reborn-1-285x428.jpg?t=1723746730">
 </picture>
 
+## about me
+
+<!-- TO DO: add more detail about me later -->
+
 <details>
 
 <summary> My Top Hobbies </summary>
