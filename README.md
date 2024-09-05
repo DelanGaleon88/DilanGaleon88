@@ -6,3 +6,13 @@
 <source media="(prefers-color-scheme: light)" scrset="https://d7vyj4bt6i7jd.cloudfront.net/products/5790000004836/05701018050968/05701018050968_95592_1601170643.png">
 <img alt="BabyButNotBaby W. Gun" scr="https://cdn.anime-planet.com/manga/primary/reborn-1-285x428.jpg?t=1723746730">
 </picture>
+
+| Rank |    Hobbies    |
+|-----:|---------------|
+|     1|     Gaming    |
+|     2|     Reading   |
+|     4|     Writing   |
+|     5| Designing Games|
+|     6|     Drawing   |
+|     7|   Sleeping    |
+|     8|    UE5 ENV.   |
