@@ -37,6 +37,8 @@ This is being Tested right now, official work will start at a later date.
 
 <details>
 
+<summary>Mermaid diagram</summary>
+
 ```mermaid
 graph TD;
     A-->B;
